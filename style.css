@@ -1,0 +1,303 @@
+/*General*/
+
+	* {
+
+	margin:0px;
+	padding:0px;
+
+	}
+
+#wrapper {
+	
+	
+	max-width: 1280px;
+	margin: 0 auto;
+	display: table;
+	padding:0% 25%;
+	 
+
+	}
+
+
+#wrapper2 {
+	
+	max-width: 1280px;
+	margin: 0 auto;
+	padding: 200px 0px;
+
+
+	}
+
+#wrapper3 {
+	
+	max-width: 1280px;
+	margin: 0 auto;
+	padding: 100px 0px;
+	
+	
+
+	}
+
+body {
+	
+	background-color: #b30047;
+	color: white;	
+	
+	
+	}
+
+main {
+
+	font-size: 35px;
+	font-family: Pacifico;
+	width:100%;
+	text-align: center;	
+
+	}
+
+p {
+
+	font-family:'Berkshire Swash', cursive;
+	
+	}
+
+footer {
+
+	text-align: center;
+	padding: 40px 0px 0px 40px;
+	background-color: white;
+	
+		}
+
+#map {
+
+	float: left;
+	padding: 0px 70px 0px 70px;
+	
+
+	}
+
+
+ul {
+
+	list-style-type:none;
+	padding: 0px 0px 0px 30px;
+
+
+	}
+
+table {
+
+		
+		width: 700px;
+		height: 450px;
+		background-color:#f3d8d8;
+		color: black;
+		text-align: center;
+		table-layout: fixed;
+		font-size:20px;
+		font-family:'Spicy Rice', cursive; 
+		border:5px white solid;
+		
+		
+		}
+
+th	{
+
+		border: 5px black solid;
+		font-size:25px;	
+		font-family:Bree Serif; Times New Roman, Courier;
+	
+		}
+
+/*headers*/
+
+.exconc_header {
+	
+	font-family: 'Merienda', cursive;
+	text-align:left;
+	margin: 0px 0px 20px 7px;
+	font-size: 40px;
+			
+	}
+
+.des_header {
+	
+	
+	font-family: 'Prosto One', cursive;	
+	margin: 0px 0px 0px 14px;
+	text-align:left;
+	font-size: 20px;
+	padding: 0px 0px 50px 0px;
+	
+
+	}
+
+.top_of_page {
+
+	color: #b30047;
+	background-color: white;
+
+	}
+
+h1 {
+
+	font-size:60px;
+	text-align: center;
+	font-family: 'Caveat', cursive;
+	
+	}
+
+
+h3 {
+
+	font-size:50px;
+	padding:0px 0px 0px 80px; 
+	font-family: 'Kalam', cursive;
+	text-align: left;
+
+	}
+
+*/nav*/
+
+nav {
+	
+	text-align:center;
+	display: block;
+	padding: 70px;
+	
+	
+				
+	}
+
+nav li {
+	
+	
+	list-style-type: none;
+	padding: 50px 100px 50px 300px;
+   	float: left;
+	display: inline;
+			
+	}
+
+nav li a {
+
+	color:white;
+	font-family: 'Rancho', cursive;;
+	font-size: 25px;
+	text-decoration:none;
+	
+
+	}
+
+/*images*/
+
+
+img {
+
+	height: 250px;
+	width: 300px;
+	border:5px black solid;
+	
+	
+	}
+
+.gallery_img {
+	
+	height: 400px;
+	width: 500px;
+	border:5px white solid;	
+	
+	
+	}
+
+.menu_img {
+
+	height: 440px;
+	width: 480px;
+	border:5px white solid;	
+	float: right;
+
+	}
+
+/*text*/
+
+
+.text_about_page {
+	
+	text-align: justify;
+	padding: 20px;
+	font-family: 'Caveat', cursive;
+	
+	}
+
+.text_address_page {
+
+	font-family: 'Kalam', cursive;
+	text-align: left;
+	
+
+	}
+
+.text_quote {
+	
+	font-family: 'Dancing Script', cursive;
+	font-size: 28px;
+	padding: 20px;
+
+	}
+
+
+
+/*links*/
+
+a:link		{
+
+		color: white;
+		text-decoration:none;
+		font-size:25px;
+		
+
+		}
+
+a:visited {
+
+		color:white;
+		
+
+		}
+
+
+a:hover {
+
+		opacity: .5;
+		
+
+		}
+
+
+.fa 	{
+
+    	padding: 30px 40px;
+    	width: 70px;
+    	color: #b30047;	
+	text-decoration:none;
+	
+	
+	
+		}
+
+.fa:hover {
+    
+	opacity: .7;
+	text-decoration:none;
+	
+	
+		}
+
+.fa:visited {
+
+	color: #b30047;
+	text-decoration:none;
+
+		}
